@@ -14,14 +14,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/Sample-Car-NotCar.png
-[image2]: ./output_images/HOG-Features-Car-NotCar2.png
+[image2]: ./output_images/Hog-Features-Car-NotCar2.png
 [image3]: ./output_images/Detection-at-different-scales.png
-[image4]: ./output_images/test1out.jpg
-[image5]: ./output_images/test2out.jpg
-[image6]: ./output_images/test3out.jpg
-[image7]: ./output_images/test4out.jpg
-[image8]: ./output_images/test5out.jpg
-[image9]: ./output_images/test6out.jpg
+[image4]: ./output_images/test1out.png
+[image5]: ./output_images/test2out.png
+[image6]: ./output_images/test3out.png
+[image7]: ./output_images/test4out.png
+[image8]: ./output_images/test5out.png
+[image9]: ./output_images/test6out.png
 [image10]: ./output_images/vframe010out.jpg
 [image11]: ./output_images/vframe011out.jpg
 [image12]: ./output_images/vframe012out.jpg
@@ -36,7 +36,7 @@ The goals / steps of this project are the following:
 ---
 ### Writeup / README
 
-#### 1. The Writeup / README that includes all the rubric points and my attempt at addressing each of them is [Here](https://github.com/udacity/CarND-Vehicle-Detection/blob/master/writeup_template.md).
+#### 1. The Writeup / README that includes all the rubric points and my attempt at addressing each of them is [Here](https://github.com/gvogety/CarND-Vehicle-Detection/blob/master/README.md).
 
 You're also reading it!
 
