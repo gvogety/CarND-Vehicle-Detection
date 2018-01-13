@@ -22,13 +22,13 @@ The goals / steps of this project are the following:
 [image7]: ./output_images/test4out.png
 [image8]: ./output_images/test5out.png
 [image9]: ./output_images/test6out.png
-[image10]: ./output_images/vframe010out.jpg
-[image11]: ./output_images/vframe011out.jpg
-[image12]: ./output_images/vframe012out.jpg
-[image13]: ./output_images/vframe013out.jpg
-[image14]: ./output_images/vframe014out.jpg
-[image15]: ./output_images/vframe015out.jpg
-[video1]: ./project_video_out.mp4
+[image10]: ./output_images/vframe010out.png
+[image11]: ./output_images/vframe011out.png
+[image12]: ./output_images/vframe012out.png
+[image13]: ./output_images/vframe013out.png
+[image14]: ./output_images/vframe014out.png
+[image15]: ./output_images/vframe015out.png
+[video1]: ./project_video_output.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
